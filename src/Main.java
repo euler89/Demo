@@ -49,7 +49,7 @@ public class Main {
         int[] res = reverseArray(arr);
         
         //Print result
-        //System.out.println("The result is:");
+        System.out.println("The result is:");
         for (int i = 0; i < res.length; i++) {
 			System.out.print(res[i]);
 			
