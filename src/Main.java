@@ -55,9 +55,9 @@ public class Main {
 			if (i != res.length - 1) {
 				System.out.print(" ");
             }
-			System.out.println();
+			
 		}
-
+        System.out.println();
 
     }//main method
     
