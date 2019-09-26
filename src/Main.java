@@ -62,7 +62,7 @@ public class Main {
     
     static {
     	
-    	 File inputFile = new File("../test/input");
+    	 File inputFile = new File("test/input");
     	 try {
 			scanner = new Scanner(inputFile);
 		} catch (FileNotFoundException e) {
